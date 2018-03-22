@@ -7,6 +7,6 @@ List of content is presented below.
 
 **Cmake**
 
-|       Name         		|Info                          
+|       Name     |Info                          
 |----------------|-------------------------------|
-|`Cmake intro presentation`|Answer the questions: "What is modern IDE? What is Cmake? Why do we need it? How ot works?"|
+|[Cmake intro presentation](https://github.com/avovana/materials/blob/master/cmake/Cmake%20intro%20presentation.pdf)|Answer the questions: "What is modern IDE? What is Cmake? Why do we need it? How it works?"|
