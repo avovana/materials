@@ -1,9 +1,8 @@
 ## Material
 This partition containes usefull material I found in the network. 
-
 Material is divided into folders.
+List of the content is presented below.
 
-List of content is presented below.
 
 **Cmake**
 
